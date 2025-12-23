@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Proficient in</h2>
+<h2 align="left">Codes in</h2>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" height="40">
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" height="40">
-  <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/kotlin/kotlin-original.svg" height="40">
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" height="40">
   <img width="12" />
